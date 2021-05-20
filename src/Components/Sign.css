@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.sign{
+    text-align: center;
+    padding: 10px;
+    /* background-color: rgb(199, 73, 73); */
+    height: 100vh;
+}
+.btn1{
+    background-color: transparent;
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    border:2px solid red;
+    border-radius: 5px;
+
+}
+.btn1:hover{
+    transition: ease-out 0.2s;
+    background-color: red;
+}
+/* body{
+    background-color: pink;
+    height: 100vh;
+} */
